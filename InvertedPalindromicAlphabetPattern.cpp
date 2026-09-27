@@ -16,5 +16,6 @@ int main(){
             cout<<ch;
         }
         cout<<endl;
+        return 0;
     }
 }
