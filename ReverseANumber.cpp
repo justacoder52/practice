@@ -10,6 +10,7 @@ int main(){
     for(int i = n; i > 0; i /= 10){
         cout << i % 10;
     }
+    cout<<endl;
 
     return 0;
 }
